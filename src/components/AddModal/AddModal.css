@@ -1,0 +1,10 @@
+.close {
+    background-color: white;
+    border: none;
+    color: gray;
+    cursor: pointer;
+}
+.Modal-Container{
+   margin-top: 20px; 
+   margin-bottom: 20px;
+}
